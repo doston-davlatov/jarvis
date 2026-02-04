@@ -1,0 +1,2 @@
+[03-Feb-2026 16:06:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dostond1/public_html/jarvis/api.php on line 13
+[03-Feb-2026 16:06:42 UTC] PHP Fatal error:  Cannot redeclare sanitizeInput() (previously declared in /home/dostond1/public_html/jarvis/api.php:66) in /home/dostond1/public_html/jarvis/config.php on line 93
